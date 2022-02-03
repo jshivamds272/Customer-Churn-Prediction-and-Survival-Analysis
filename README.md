@@ -1,3 +1,4 @@
+
 # Customer-Churn-Prediction-using-ANN
 
 ![1_Dvx1j18vyKyvLlIpxzVSmQ](https://user-images.githubusercontent.com/81983943/152379522-34526320-beba-41ab-9a15-bd232f24dad6.png)
@@ -53,3 +54,7 @@ MonthlyCharges-- The amount charged to the customer monthly
 TotalCharges-- The total amount charged to the customer
 
 Churn-- Whether the customer churned or not (Yes or No)
+
+# ANN model-----
+
+![download](https://user-images.githubusercontent.com/81983943/152382914-264a80f7-2199-421c-ac4a-aa96949699cd.jpg)
